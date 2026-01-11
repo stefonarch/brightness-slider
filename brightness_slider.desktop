@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Brightness Slider
+GenericName=Adjust screen brightness on external monitor
+Comment=
+Exec=brightness-slider
+Type=Application
+Categories=Settings;Utility;
+Icon=display-brightness
+Terminal=false
